@@ -5,7 +5,7 @@ Project of course Geostatistics and Reservoir Simulations - Skoltech - 2021
 
 Computational implementation of the Buckley-Leverett (BL) model of water-oil displacement in a petroleum reservoir with the additional implementation of the two different relative permeability models – Chierici\`s (Chieici, 1984, 1994) and LET (Lomeland et al., 2005), which are depending on parameters B,M,A,L and L,E,T consequently. Sensitivity analysis of the result values of BL model -relative permeability crossing points, shock font saturation and displaced oil at a fixed time, depending on  B,M,A,L and L,E,T parameters was performed by Sobol indices SA in SAlib open source python library.
 
-![graphical]('plots/SA_Chersie_model.png')
+![graphical]('./plots/SA_Chersie_model.png')
 
 ## Google Colab 
 
