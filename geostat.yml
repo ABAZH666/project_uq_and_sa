@@ -1,0 +1,13 @@
+name: geostat
+dependencies:
+- pyyaml
+- numpy
+- matplotlib
+- scipy
+- pandas
+- python=3.6
+- ipython
+- jupyter
+- pip:
+  - salib
+  - tqdm
